@@ -1,0 +1,1 @@
+const availableImg = ["Isensee2021nnUNet","Wang2020AxialDeepLab","Long_2015_CVPR","Beck2016Visual","kirillov2023segment","Cao2023SwinUnet","huang2023segment","7785132","Ronneberger2015Unet","badrinarayanan2015segnet","Chen_2018_ECCV","7913730"];
